@@ -20,10 +20,10 @@
 <table align="center">
   <tr>
     <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LouwrensSwart&show_icons=true&theme=dracula&hide_border=true" />
+      <a href="https://github.com/LouwrensSwart/"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=LouwrensSwart&show_icons=true&theme=dracula&hide_border=true" /></a>
     </td>
     <td>
-      <img width="100%" src="https://streak-stats.demolab.com/?user=LouwrensSwart&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      <a href="https://github.com/LouwrensSwart/"><img src="https://github-readme-streak-stats.herokuapp.com?user=LouwrensSwart&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
