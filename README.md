@@ -23,7 +23,7 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LouwrensSwart&show_icons=true&theme=dracula&hide_border=true" />
     </td>
     <td>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=LouwrensSwart&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=LouwrensSwart&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
